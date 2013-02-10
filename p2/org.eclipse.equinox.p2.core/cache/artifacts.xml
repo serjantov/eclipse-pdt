@@ -3,14 +3,19 @@
 <repository name='download cache' type='org.eclipse.equinox.p2.artifact.repository.simpleRepository' version='1.0.0'>
   <properties size='2'>
     <property name='p2.system' value='true'/>
-    <property name='p2.timestamp' value='1347666790829'/>
+    <property name='p2.timestamp' value='1360509307941'/>
   </properties>
   <mappings size='3'>
     <rule filter='(&amp; (classifier=osgi.bundle))' output='${repoUrl}/plugins/${id}_${version}.jar'/>
     <rule filter='(&amp; (classifier=binary))' output='${repoUrl}/binary/${id}_${version}'/>
     <rule filter='(&amp; (classifier=org.eclipse.update.feature))' output='${repoUrl}/features/${id}_${version}.jar'/>
   </mappings>
-  <artifacts size='5'>
+  <artifacts size='7'>
+    <artifact classifier='binary' id='org.eclipse.equinox.server.servletbridge_root' version='1.0.101.v20120522-1841-42F9w9oB58B5KBB2ADHO'>
+      <properties size='1'>
+        <property name='download.size' value='39142'/>
+      </properties>
+    </artifact>
     <artifact classifier='binary' id='org.eclipse.platform_root' version='4.2.1.v20120814-120134-9JF7BHVGFyMveli1uX6aTH0q-eAap6PAgOP5mO'>
       <properties size='1'>
         <property name='download.size' value='38125'/>
@@ -24,6 +29,11 @@
     <artifact classifier='binary' id='org.eclipse.jdt_root' version='3.8.1.v20120814-104540-8-8nFqpFNOfwKDRVz-tXOcL5d_83'>
       <properties size='1'>
         <property name='download.size' value='8902'/>
+      </properties>
+    </artifact>
+    <artifact classifier='binary' id='org.eclipse.equinox.executable_root.cocoa.macosx.x86_64' version='3.6.0.v20120522-1813-7P7OG2BFLWUl7UmbVUO9iCm'>
+      <properties size='1'>
+        <property name='download.size' value='11035'/>
       </properties>
     </artifact>
     <artifact classifier='binary' id='org.eclipse.rcp_root' version='4.2.1.v20120814-120134-7IAPA8BrHQicS-rjP0GbqK780kMy'>

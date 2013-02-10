@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+Bundle-Vendor: %providerName
+Bundle-Localization: fragmentjre11
+Bundle-RequiredExecutionEnvironment: J2SE-1.4
+Fragment-Host: org.eclipse.pde.api.tools;bundle-version="1.0.300"
+Bundle-Name: %fragmentName
+Bundle-SymbolicName: org.eclipse.pde.api.tools.ee.jre11
+Eclipse-BundleShape: dir
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/pde/ec
+ lipse.pde.ui.git;path="apitools/org.eclipse.pde.api.tools.ee.jre11";t
+ ag=v20120530-1420
+Bundle-Version: 1.0.200.v20120530-1420
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/pde/api/tools/internal/api_stubs/JRE-1.1.zip
+SHA1-Digest: dEt+wEVM6mLhe1DrpkmuWt2r1Jg=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: fragmentjre11.properties
+SHA1-Digest: BrRAIJDy7Fk84tE/FxFPhyxxquI=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+

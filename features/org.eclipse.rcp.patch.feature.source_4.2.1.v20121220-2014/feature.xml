@@ -1,0 +1,7 @@
+<feature id="org.eclipse.rcp.patch.feature.source" version="4.2.1.v20121220-2014" label="%featureName" provider-name="%providerName"><includes id="org.eclipse.rcp.patch.feature" version="4.2.1.v20121220-2014"/><description>
+      %description
+   </description><copyright>
+      %copyright
+   </copyright><license url="%licenseURL">
+      %license
+   </license><plugin id="org.eclipse.ui.workbench.source" version="3.104.0.v20121219-151754" download-size="0" install-size="0" unpack="false"/></feature>

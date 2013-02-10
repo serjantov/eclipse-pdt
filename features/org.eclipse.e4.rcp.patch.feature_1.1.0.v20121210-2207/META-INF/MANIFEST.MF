@@ -1,0 +1,29 @@
+Manifest-Version: 1.0
+Build-Jdk: 1.6.0_27
+Built-By: e4Build
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+
+Name: epl-v10.html
+SHA1-Digest: jYDaDJLBJpthCwPMgGFVYASJjIU=
+
+Name: META-INF/maven/org.eclipse.e4.ui/org.eclipse.e4.rcp.patch.featur
+ e/pom.xml
+SHA1-Digest: F3AOByzyzlONU7ol+vuDZFLBcyY=
+
+Name: eclipse_update_120.jpg
+SHA1-Digest: xstAqMgs/a5AsQXQZSdDQ79veOA=
+
+Name: META-INF/maven/org.eclipse.e4.ui/org.eclipse.e4.rcp.patch.featur
+ e/pom.properties
+SHA1-Digest: M9KPLc5zyUhyMOqFa4JGMxMMzXw=
+
+Name: license.html
+SHA1-Digest: /vLZjlHkZSXMSfPrWwNqOUDqqbM=
+
+Name: feature.properties
+SHA1-Digest: 0tEPy9K345Fny5YfP2jkr+f0pek=
+
+Name: feature.xml
+SHA1-Digest: zR2GIWvA0Av1JCZCZc2yHltklKQ=
+

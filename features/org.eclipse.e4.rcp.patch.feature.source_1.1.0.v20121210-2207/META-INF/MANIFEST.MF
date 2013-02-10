@@ -1,0 +1,29 @@
+Manifest-Version: 1.0
+Build-Jdk: 1.6.0_27
+Built-By: e4Build
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+
+Name: META-INF/maven/org.eclipse.e4.ui/org.eclipse.e4.rcp.patch.featur
+ e/pom.xml
+SHA1-Digest: F3AOByzyzlONU7ol+vuDZFLBcyY=
+
+Name: build.properties
+SHA1-Digest: S8VRcOWYVgA2D9RKjUiDNuYo/fw=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: 09gN05tobgS/MdtqyTNQhOhB73M=
+
+Name: eclipse_update_120.jpg
+SHA1-Digest: xstAqMgs/a5AsQXQZSdDQ79veOA=
+
+Name: META-INF/maven/org.eclipse.e4.ui/org.eclipse.e4.rcp.patch.featur
+ e/pom.properties
+SHA1-Digest: yWE//KXjpALkseG+FrceNCSOzTM=
+
+Name: feature.properties
+SHA1-Digest: REq5++sMo4EEXD93xe1GB01HQU4=
+
+Name: feature.xml
+SHA1-Digest: j2Lx0lLqmC+arB3k+Cmlsm/ha8w=
+

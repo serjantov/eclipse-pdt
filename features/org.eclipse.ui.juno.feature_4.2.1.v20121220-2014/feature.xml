@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.ui.juno.feature"
+      label="%featureName"
+      version="4.2.1.v20121220-2014"
+      provider-name="%providerName"
+      image="eclipse_update_120.jpg">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+
+   <includes
+         id="org.eclipse.e4.rcp.patch.feature"
+         version="1.1.0.v20121210-2207"/>
+
+   <includes
+         id="org.eclipse.rcp.patch.feature"
+         version="4.2.1.v20121220-2014"/>
+
+</feature>

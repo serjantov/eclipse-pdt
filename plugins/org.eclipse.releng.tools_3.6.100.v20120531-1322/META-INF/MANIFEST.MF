@@ -1,0 +1,46 @@
+Manifest-Version: 1.0
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: J2SE-1.4
+Bundle-SymbolicName: org.eclipse.releng.tools; singleton:=true
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/platfo
+ rm/eclipse.platform.releng.git;path="bundles/org.eclipse.releng.tools
+ ";tag=v20120531-1322
+Bundle-Activator: org.eclipse.releng.tools.RelEngPlugin
+Require-Bundle: org.eclipse.ui.ide;resolution:=optional,org.eclipse.ui
+ .views;resolution:=optional,org.eclipse.jface.text;resolution:=option
+ al,org.eclipse.ui.workbench.texteditor;resolution:=optional,org.eclip
+ se.ui.editors;resolution:=optional,org.eclipse.core.resources,org.ecl
+ ipse.ui,org.eclipse.team.cvs.core,org.eclipse.team.core,org.eclipse.t
+ eam.cvs.ui;bundle-version="[3.3.0,4.0.0)",org.eclipse.core.runtime,or
+ g.eclipse.team.core,org.eclipse.team.ui,org.eclipse.compare,org.eclip
+ se.ui.console,org.eclipse.jgit;bundle-version="1.3.0";resolution:=opt
+ ional,org.eclipse.egit.core;bundle-version="1.3.0";resolution:=option
+ al
+Export-Package: org.eclipse.releng.tools,org.eclipse.releng.tools.git;
+ x-friends:="org.eclipse.releng.tests",org.eclipse.releng.tools.prefer
+ ences
+Bundle-Version: 3.6.100.v20120531-1322
+Bundle-ClassPath: tools.jar
+Bundle-ActivationPolicy: lazy
+Bundle-Vendor: %PluginProvider
+Bundle-Name: %PluginName
+Bundle-ManifestVersion: 2
+
+Name: icons/full/clcl16/release_action.gif
+SHA1-Digest: FwuGiWtTmVjRYt92wxHXgQKN/p4=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: tools.jar
+SHA1-Digest: 7rw2fphWfPnpDZcoe397tUKb5FM=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: plugin.xml
+SHA1-Digest: YDcsm0SQtST8xIa1R6P+1dUMN9M=
+
+Name: plugin.properties
+SHA1-Digest: hF38HLAOUUrBYzb/p5pO/kU7csU=
+

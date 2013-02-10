@@ -1,0 +1,18 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: 5AFiW8m9o1jtDIysetss8VHE/sI=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: zw18FdfEvz2sCXR7HSFUj/qB85I=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/pde/api/tools/internal/api_stubs/OSGi_Minimum-1.2.zi
+ p
+SHA1-Digest: 5Dd9lpZinon8gDaCQpyaKiBPH5k=
+
+Name: fragmentosgiminimum12.properties
+SHA1-Digest: z62DD2HGzbWxj/VxSXUTFtIia6c=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+

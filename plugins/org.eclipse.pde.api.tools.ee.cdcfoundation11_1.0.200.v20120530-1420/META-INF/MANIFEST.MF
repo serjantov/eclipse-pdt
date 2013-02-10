@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Bundle-Vendor: %providerName
+Bundle-Localization: fragmentcdcfoundation11
+Bundle-RequiredExecutionEnvironment: J2SE-1.4
+Fragment-Host: org.eclipse.pde.api.tools;bundle-version="1.0.300"
+Bundle-Name: %fragmentName
+Bundle-SymbolicName: org.eclipse.pde.api.tools.ee.cdcfoundation11
+Eclipse-BundleShape: dir
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/pde/ec
+ lipse.pde.ui.git;path="apitools/org.eclipse.pde.api.tools.ee.cdcfound
+ ation11";tag=v20120530-1420
+Bundle-Version: 1.0.200.v20120530-1420
+Bundle-ManifestVersion: 2
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/pde/api/tools/internal/api_stubs/CDC-1.1_Foundation-
+ 1.1.zip
+SHA1-Digest: Q5vjlzvSl9ydUbTD6DMFpYf9S6Q=
+
+Name: fragmentcdcfoundation11.properties
+SHA1-Digest: Ss17UZXHznNX0NA7SzI/pgaTvbE=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
