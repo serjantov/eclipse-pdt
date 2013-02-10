@@ -1,4 +1,5 @@
 #version=1
+com.github.eclipsecolortheme,0.12.0.201207240713,plugins/com.github.eclipsecolortheme_0.12.0.201207240713.jar,4,false
 com.google.gerrit.common,2.1.5.v201112241444,plugins/com.google.gerrit.common_2.1.5.v201112241444.jar,4,false
 com.google.gerrit.prettify,2.1.5.v201112241444,plugins/com.google.gerrit.prettify_2.1.5.v201112241444.jar,4,false
 com.google.gerrit.reviewdb,2.1.5.v201112241444,plugins/com.google.gerrit.reviewdb_2.1.5.v201112241444.jar,4,false
