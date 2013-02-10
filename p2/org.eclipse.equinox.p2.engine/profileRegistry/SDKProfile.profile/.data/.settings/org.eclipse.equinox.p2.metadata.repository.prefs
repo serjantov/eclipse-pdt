@@ -25,6 +25,7 @@ repositories/http\:__andrei.gmxhome.de_eclipse/version=1
 repositories/http\:__community.polarion.com_projects_subversive_download_eclipse_3.0_juno-site/enabled=true
 repositories/http\:__community.polarion.com_projects_subversive_download_eclipse_3.0_juno-site/isSystem=false
 repositories/http\:__community.polarion.com_projects_subversive_download_eclipse_3.0_juno-site/name=Update Site
+repositories/http\:__community.polarion.com_projects_subversive_download_eclipse_3.0_juno-site/nickname=Update Site
 repositories/http\:__community.polarion.com_projects_subversive_download_eclipse_3.0_juno-site/suffix=content.xml
 repositories/http\:__community.polarion.com_projects_subversive_download_eclipse_3.0_juno-site/type=org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository
 repositories/http\:__community.polarion.com_projects_subversive_download_eclipse_3.0_juno-site/uri=http\://community.polarion.com/projects/subversive/download/eclipse/3.0/juno-site/
