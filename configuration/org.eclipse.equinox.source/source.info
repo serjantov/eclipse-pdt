@@ -210,6 +210,16 @@ org.eclipse.pde.ua.core.source,1.0.200.v20120530-1435,plugins/org.eclipse.pde.ua
 org.eclipse.pde.ua.ui.source,1.0.200.v20120523-1453,plugins/org.eclipse.pde.ua.ui.source_1.0.200.v20120523-1453.jar,-1,false
 org.eclipse.pde.ui.source,3.7.1.v20120824-102423,plugins/org.eclipse.pde.ui.source_3.7.1.v20120824-102423.jar,-1,false
 org.eclipse.pde.ui.templates.source,3.4.500.v20120523-2012,plugins/org.eclipse.pde.ui.templates.source_3.4.500.v20120523-2012.jar,-1,false
+org.eclipse.php.core.parser.source,3.0.1.v201201110400,plugins/org.eclipse.php.core.parser.source_3.0.1.v201201110400.jar,-1,false
+org.eclipse.php.core.source,3.1.1.201209101312,plugins/org.eclipse.php.core.source_3.1.1.201209101312.jar,-1,false
+org.eclipse.php.debug.core.source,3.1.1.201209101312,plugins/org.eclipse.php.debug.core.source_3.1.1.201209101312.jar,-1,false
+org.eclipse.php.debug.daemon.source,3.1.1.201209101312,plugins/org.eclipse.php.debug.daemon.source_3.1.1.201209101312.jar,-1,false
+org.eclipse.php.debug.ui.source,3.1.1.201209101312,plugins/org.eclipse.php.debug.ui.source_3.1.1.201209101312.jar,-1,false
+org.eclipse.php.help.source,3.1.1.201209101312,plugins/org.eclipse.php.help.source_3.1.1.201209101312.jar,-1,false
+org.eclipse.php.server.core.source,3.1.1.201209101312,plugins/org.eclipse.php.server.core.source_3.1.1.201209101312.jar,-1,false
+org.eclipse.php.server.ui.source,3.1.1.201209101312,plugins/org.eclipse.php.server.ui.source_3.1.1.201209101312.jar,-1,false
+org.eclipse.php.source,3.0.1.v201201110400,plugins/org.eclipse.php.source_3.0.1.v201201110400.jar,-1,false
+org.eclipse.php.ui.source,3.1.1.201209101312,plugins/org.eclipse.php.ui.source_3.1.1.201209101312.jar,-1,false
 org.eclipse.platform.source,4.2.1.v201209141800,plugins/org.eclipse.platform.source_4.2.1.v201209141800.jar,-1,false
 org.eclipse.rcp.source,4.2.0.v201209141800,plugins/org.eclipse.rcp.source_4.2.0.v201209141800.jar,-1,false
 org.eclipse.search.source,3.8.0.v20120523-1540,plugins/org.eclipse.search.source_3.8.0.v20120523-1540.jar,-1,false
