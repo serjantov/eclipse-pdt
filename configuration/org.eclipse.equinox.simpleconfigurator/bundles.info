@@ -2,6 +2,7 @@
 com.ibm.icu,4.4.2.v20110823,plugins/com.ibm.icu_4.4.2.v20110823.jar,4,false
 com.jcraft.jsch,0.1.46.v201205102330,plugins/com.jcraft.jsch_0.1.46.v201205102330.jar,4,false
 com.sun.el,2.2.0.v201108011116,plugins/com.sun.el_2.2.0.v201108011116.jar,4,false
+de.loskutov.anyedit.AnyEditTools,2.4.3.201211022220,plugins/de.loskutov.anyedit.AnyEditTools_2.4.3.201211022220.jar,4,false
 javax.annotation,1.0.0.v20101115-0725,plugins/javax.annotation_1.0.0.v20101115-0725.jar,4,false
 javax.el,2.2.0.v201108011116,plugins/javax.el_2.2.0.v201108011116.jar,4,false
 javax.inject,1.0.0.v20091030,plugins/javax.inject_1.0.0.v20091030.jar,4,false
